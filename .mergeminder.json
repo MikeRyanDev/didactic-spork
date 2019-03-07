@@ -1,9 +1,12 @@
 {
   "teams": {
-    "ui": [
-      "mikeryandev",
-      "tylercrumpton"
-    ]
+    "ui": {
+      "reviewersRequired": 2,
+      "members": [
+        "mikeryandev",
+        "tylercrumpton"
+      ]
+    }
   },
   "patterns": [
     {
