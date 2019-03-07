@@ -1,0 +1,18 @@
+{
+  "teams": {
+    "ui": [
+      "mikeryandev",
+      "tylercrumpton"
+    ]
+  },
+  "patterns": [
+    {
+      "match": [
+        "./projects/ui/**/*.ts"
+      ],
+      "request": [
+        "ui"
+      ]
+    }
+  ]
+}
