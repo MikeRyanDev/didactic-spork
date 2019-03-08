@@ -3,10 +3,10 @@
     "ui": {
       "reviewersRequired": 2,
       "members": [
-        "mikeryandev <mike.ryan@synapsewireless.com>",
-        "tylercrumpton <tyler.crumpton@synapsewireless.com>",
-        "kyleryanbanks <kyle.banks@synapsewireless.com>",
-        "jjzoller <jeremy.zoller@synapsewireless.com>"
+        "mikeryandev",
+        "tylercrumpton",
+        "kyleryanbanks",
+        "jjzoller"
       ]
     }
   },
